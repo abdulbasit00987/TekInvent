@@ -1,0 +1,32 @@
+/*for-large-dekstop view-1200*/
+
+@media only screen and (min-width: 100px) and (max-width: 1399px) {
+}
+
+/*for-laptop view-1024*/
+
+@media only screen and (min-width: 100px) and (max-width: 1199px) {
+}
+
+/*for-tablet view-768*/
+
+@media only screen and (min-width: 100px) and (max-width: 991px) {
+}
+
+/*for-landscape_mobile view-576*/
+
+@media only screen and (min-width: 100px) and (max-width: 767px) {
+}
+
+/*for-mobile view-375*/
+
+@media only screen and (min-width: 100px) and (max-width: 575px) {
+  .container {
+    width: 96%;
+  }
+}
+
+/*for-small_mobile view-320*/
+
+@media only screen and (min-width: 100px) and (max-width: 374px) {
+}
